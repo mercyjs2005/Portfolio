@@ -194,15 +194,19 @@ const heroContent = {
 },
     ],
     social: [
-      {
-      label: "GitHub",
-      href: "https://github.com/jaydeepsingh"
-    },
-    {
-      label: "LinkedIn",
-      href: "https://www.linkedin.com/in/jaydeepsingh"
-    },
-  ],
+  {
+    label: "GitHub",
+    href: "https://github.com/mercyjs2005"
+  },
+  {
+    label: "LinkedIn",
+    href: "https://www.linkedin.com/in/jaydeep-singh-7a435135"
+  },
+  {
+    label: "Resume",
+    href: "assets/resume.pdf"
+  },
+],
     legal: "© 2026 Jaydeep Singh",
     note: "Built with code, curiosity and a passion for solving problems.",
     backToTop: "Back to top",
