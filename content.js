@@ -200,7 +200,7 @@ const heroContent = {
   },
   {
     label: "LinkedIn",
-    href: "https://www.linkedin.com/in/jaydeep-singh-7a435135"
+    href: "https://www.linkedin.com/in/jaydeep-singh-7a4351357/"
   },
   {
     label: "Resume",
